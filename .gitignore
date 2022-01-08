@@ -3,3 +3,5 @@
 ################################################################################
 
 /BlazorSessionManagementWithRedis/.vs/BlazorSessionManagementWithRedis/v17
+/BlazorSessionManagementWithRedis/BlazorSessionManagementWithRedis/obj
+/BlazorSessionManagementWithRedis/BlazorSessionManagementWithRedis/bin/Debug/net6.0

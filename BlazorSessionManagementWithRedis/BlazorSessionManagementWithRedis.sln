@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSessionManagementWithRedis", "BlazorSessionManagementWithRedis\BlazorSessionManagementWithRedis.csproj", "{4C4C76C4-43CE-4677-8A91-43D4D3A056A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C4C76C4-43CE-4677-8A91-43D4D3A056A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4C76C4-43CE-4677-8A91-43D4D3A056A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4C76C4-43CE-4677-8A91-43D4D3A056A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4C76C4-43CE-4677-8A91-43D4D3A056A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FCC2F8A-FEDD-4B43-A5AC-D07F2B4E0AB1}
+	EndGlobalSection
+EndGlobal
